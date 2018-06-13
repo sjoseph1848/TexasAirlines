@@ -6,7 +6,11 @@ namespace Airline
     {
         static void Main()
         {
-            
+            var planes = new Flight();
+
+            var airline = planes.Plane("MD80");
+            Console.WriteLine(airline);
+
         }
     }
 }

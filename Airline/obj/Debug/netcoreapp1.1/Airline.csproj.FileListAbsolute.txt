@@ -1,0 +1,11 @@
+C:\Users\sjose\source\repos\Airline\Airline\bin\Debug\netcoreapp1.1\Airline.deps.json
+C:\Users\sjose\source\repos\Airline\Airline\bin\Debug\netcoreapp1.1\Airline.runtimeconfig.json
+C:\Users\sjose\source\repos\Airline\Airline\bin\Debug\netcoreapp1.1\Airline.runtimeconfig.dev.json
+C:\Users\sjose\source\repos\Airline\Airline\bin\Debug\netcoreapp1.1\Airline.dll
+C:\Users\sjose\source\repos\Airline\Airline\bin\Debug\netcoreapp1.1\Airline.pdb
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.csprojAssemblyReference.cache
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.csproj.CoreCompileInputs.cache
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.AssemblyInfoInputs.cache
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.AssemblyInfo.cs
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.dll
+C:\Users\sjose\source\repos\Airline\Airline\obj\Debug\netcoreapp1.1\Airline.pdb
