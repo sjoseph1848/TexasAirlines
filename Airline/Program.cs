@@ -6,10 +6,8 @@ namespace Airline
     {
         static void Main()
         {
-            var planes = new Flight();
-
-            var airline = planes.Plane("MD80");
-            Console.WriteLine(airline);
+            var emb = new Plane("ERJ 170", 300, 400);
+            emb.GetSalvageValue();
 
         }
     }
