@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline", "Airline\Airline.csproj", "{CB8BCC45-9C3E-47C6-AD02-A3CCA28FEB17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.BL", "Airline.BL\Airline.BL.csproj", "{42C437F0-973A-48EB-8D82-8663CA32DA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.BL", "Airline.BL\Airline.BL.csproj", "{42C437F0-973A-48EB-8D82-8663CA32DA64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{38885C8E-17BE-4950-82BE-5C30AAF380D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline.BLTest", "Airline.BLTest\Airline.BLTest.csproj", "{642443BB-1CB5-4372-933F-81E623ECE6F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +25,16 @@ Global
 		{42C437F0-973A-48EB-8D82-8663CA32DA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C437F0-973A-48EB-8D82-8663CA32DA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C437F0-973A-48EB-8D82-8663CA32DA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642443BB-1CB5-4372-933F-81E623ECE6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642443BB-1CB5-4372-933F-81E623ECE6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642443BB-1CB5-4372-933F-81E623ECE6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642443BB-1CB5-4372-933F-81E623ECE6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{642443BB-1CB5-4372-933F-81E623ECE6F0} = {38885C8E-17BE-4950-82BE-5C30AAF380D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {12CDD333-238C-4BED-AB7C-644B610406DE}
